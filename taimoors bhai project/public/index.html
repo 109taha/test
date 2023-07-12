@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Node Express Server</title>
+    <style>
+      * {
+        box-sizing: border-box;
+        max-height: 100vh;
+      }
+      .container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        width: 100%;
+        background: #ebebeb;
+        font-family: Arial, Helvetica, sans-serif;
+        text-align: center;
+        margin: auto;
+        padding: 1rem;
+        border-radius: 1rem;
+        font-weight: 300;
+        font-size: 1rem;
+      }
+      .navbar {
+        width: 100%;
+        display: flex;
+        justify-content: flex-end;
+      }
+      .navbar ul {
+        display: flex;
+        list-style-type: none;
+      }
+      .navbar ul li {
+        background-color: #302f2f;
+        color: #ebebeb;
+        border-radius: 0.5rem;
+      }
+      .navbar a {
+        text-decoration: none;
+        color: #ebebeb;
+      }
+      .navbar a:active {
+        color: #2eff4a;
+      }
+      .details {
+        margin: auto;
+        font-size: 0.75rem;
+        font-family: monospace;
+      }
+      .details ul {
+        list-style-type: none;
+        margin: auto;
+      }
+      li {
+        margin: 10px;
+        padding: 10px;
+        background: #302f2f;
+        color: #05fd26;
+        border-radius: 1rem;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <nav class="navbar">
+        <ul>
+          <li><a href="./login.html">login</a></li>
+          <li><a href="./signup.html">signup</a></li>
+        </ul>
+      </nav>
+      <h1>Hello from express server 🤗</h1>
+      <div class="details">
+        <ul>
+          <div class="list-container">
+            <li>
+              send post request to url/api/v1/users/sigin to sigin or /login to
+              signup
+            </li>
+          </div>
+
+          <li>use "/api/v1/todos" to get todos</li>
+          <li>if empty use "/api/v1/todos/create" to create</li>
+          <li>use "/api/v1/todos/update" to update user</li>
+          <li>"/api/v1/todos/delete" to delete todos</li>
+        </ul>
+        Created By: Taimoor khan <br />
+        Hosted on: Heroku
+      </div>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,26 @@
+20230524	12:49:00	fc975103-299b-45d8-adbd-40a2fcaec3b6	Error: Not allowed by cors
+20230524	15:33:23	c4e65772-be7d-4710-8333-d5f83f4d88bf	TypeError: data.setEmployees is not a function
+20230524	15:35:12	3db289c3-7d28-4f5b-9869-718db7e0b29c	TypeError: data.setEmpolyee is not a function
+20230524	15:35:52	b9edd2be-bc4d-4cdb-8b7d-f590cb86cea0	TypeError: data.setEmpolyee is not a function
+20230524	15:58:05	29cae0a7-eaa2-4a72-a549-1515e8430338	TypeError: data.setEmpolyee is not a function
+20230524	15:58:15	7d91d3b1-8815-4758-a31c-273636cfaf56	TypeError: data.setEmpolyee is not a function
+20230524	16:11:42	dd1a3388-5e77-4ad7-8ae1-4de8e1bfe027	SyntaxError: Unexpected token ; in JSON at position 29
+20230524	16:12:27	a6968482-2707-4f53-b5d1-5fd4704c9565	SyntaxError: Unexpected token ; in JSON at position 29
+20230524	16:12:28	0bf06865-199b-4e80-9192-05fc65fa03a3	SyntaxError: Unexpected token ; in JSON at position 29
+20230524	16:12:28	266eb9c9-3acb-45b5-b456-384e904f01c4	SyntaxError: Unexpected token ; in JSON at position 29
+20230524	16:12:28	f4f57edb-54cf-44ae-8634-5124b244a321	SyntaxError: Unexpected token ; in JSON at position 29
+20230524	16:12:28	4a8678cb-2fda-4c5b-94e7-81106677af9e	SyntaxError: Unexpected token ; in JSON at position 29
+20230524	16:12:28	5f86f5cf-b89c-4349-beca-a23f1cd757c6	SyntaxError: Unexpected token ; in JSON at position 29
+20230524	16:12:28	59a38c55-3bbb-459e-882b-795fe8be2f88	SyntaxError: Unexpected token ; in JSON at position 29
+20230524	16:12:28	2bec9e05-f790-4c92-8ec4-ac3859b7693c	SyntaxError: Unexpected token ; in JSON at position 29
+20230524	16:12:29	5e069456-a2c0-4219-9513-a7ffc9841dc0	SyntaxError: Unexpected token ; in JSON at position 29
+20230524	16:12:29	6f5a644c-6787-4036-9475-e587966a0f2d	SyntaxError: Unexpected token ; in JSON at position 29
+20230524	16:12:29	cc1e0645-52f9-4f1e-a525-acef921eaf0f	SyntaxError: Unexpected token ; in JSON at position 29
+20230524	16:12:29	a04fdbbe-77dd-444a-b511-437d8df3f66c	SyntaxError: Unexpected token ; in JSON at position 29
+20230524	16:14:23	f69a469c-fabf-4e71-b322-989f35f4ebba	SyntaxError: Unexpected token ; in JSON at position 29
+20230524	16:18:29	4e755559-7d13-4155-b41b-ad9bc7d6d52c	SyntaxError: Unexpected token ; in JSON at position 30
+20230524	16:18:38	e90ce7e6-f06f-4fde-86db-a5d9de71b55a	SyntaxError: Unexpected token ; in JSON at position 30
+20230524	16:19:20	ae9596a4-e476-4630-90db-218f1623bff1	SyntaxError: Unexpected token ; in JSON at position 31
+20230524	16:20:03	ac94812e-f334-474f-a98f-7e787b45c6ad	SyntaxError: Unexpected token ; in JSON at position 31
+20230524	16:21:21	5ed6fc41-79ea-4017-b184-aceb56c109f1	SyntaxError: Unexpected token ; in JSON at position 31
+20230524	16:23:00	901f8741-6e00-4eb5-abfe-aac3d0a058b8	SyntaxError: Unexpected token ; in JSON at position 31
